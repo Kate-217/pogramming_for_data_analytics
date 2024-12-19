@@ -5,6 +5,8 @@ This repository contains a collection of tasks and assessments completed as part
 
 The assessments cover a variety of data analysis tasks, ranging from basic data cleaning to more complex visualizations and analyses using real-world datasets.
 
+The `assignments` folder contains the **assessments** completed during the module, including a `Labs` subfolder with the **lab** exercises conducted throughout the module.
+
 ## Assessments
 * Assignment 2 **Weather**<br>
 The task involves creating a Jupyter notebook to visualize the temperature `dryBulbTemperature_Celsius` over time using weather data.

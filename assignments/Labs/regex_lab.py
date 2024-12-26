@@ -1,4 +1,4 @@
-# This is code will find some text in an access file
+# This code will find some text in an access file
 # Author: Andrew Beatty
 
 import re
